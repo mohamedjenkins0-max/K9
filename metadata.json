@@ -1,0 +1,6 @@
+{
+  "name": "K9 Century Education Management System",
+  "description": "Enterprise multi-tenant school and vocational institute management system for K9 Century School and K9 Century Vocational Institute in Sierra Leone, with admissions, grading, attendance, and role-based security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
